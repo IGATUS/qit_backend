@@ -1,0 +1,1 @@
+web: gunicorn quantum_doctor.wsgi --log-file -
